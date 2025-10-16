@@ -1,7 +1,7 @@
 # HTML Processing API for Python
 Aspose.HTML for Python via .NET Examples
 
-[Product Page](https://products.aspose.com/html/python-net/) | [Docs](https://docs.aspose.com/html/python-net/) | [Demos](https://products.aspose.app/html/applications) | [AI Apps](https://products.aspose.ai/html/) | [API Reference](https://reference.aspose.com/html/) |[Blog](https://blog.aspose.com/categories/aspose.html-product-family/) | [Free Support](https://forum.aspose.com/c/html/29) | [Temporary License](https://purchase.aspose.com/temporary-license/)
+[Product Page](https://products.aspose.com/html/python-net/) | [Docs](https://docs.aspose.com/html/python-net/) | [Demos](https://products.aspose.app/html/applications) | [AI Apps](https://products.aspose.ai/html/) | [API Reference](https://reference.aspose.com/html/python-net/) |[Blog](https://blog.aspose.com/categories/aspose.html-product-family/) | [Free Support](https://forum.aspose.com/c/html/29) | [Temporary License](https://purchase.aspose.com/temporary-license/)
 
 This repository contains comprehensive examples for using the **Aspose.HTML for Python via .NET** library. The examples demonstrate various capabilities, including document conversion, rendering, editing, and data extraction.
 
@@ -87,4 +87,4 @@ options = sav.PdfSaveOptions()
 conv.Converter.convert_html(document, options, "output.pdf")
 ```
 
-[Product Page](https://products.aspose.com/html/python-net/) | [Docs](https://docs.aspose.com/html/python-net/) | [Demos](https://products.aspose.app/html/applications) | [AI Apps](https://products.aspose.ai/html/) | [API Reference](https://reference.aspose.com/html/) |[Blog](https://blog.aspose.com/categories/aspose.html-product-family/) | [Free Support](https://forum.aspose.com/c/html/29) | [Temporary License](https://purchase.aspose.com/temporary-license/)
+[Product Page](https://products.aspose.com/html/python-net/) | [Docs](https://docs.aspose.com/html/python-net/) | [Demos](https://products.aspose.app/html/applications) | [AI Apps](https://products.aspose.ai/html/) | [API Reference](https://reference.aspose.com/html/python-net/) |[Blog](https://blog.aspose.com/categories/aspose.html-product-family/) | [Free Support](https://forum.aspose.com/c/html/29) | [Temporary License](https://purchase.aspose.com/temporary-license/)
