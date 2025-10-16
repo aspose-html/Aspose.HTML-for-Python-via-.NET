@@ -39,7 +39,7 @@ Aspose.HTML for Python via .NET is a cross-platform API that works seamlessly on
 
 ## Getting Started
 
-Installation is quick and easy—just open a terminal and run:
+Installation is quick and easy – just open a terminal and run:
 
 ```bash
 pip install aspose-html-net
